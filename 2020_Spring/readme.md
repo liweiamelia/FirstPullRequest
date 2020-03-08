@@ -62,7 +62,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Li, Joey
 
-- [X] Li, Wei(liweiamelia)
+- [X] Li, Wei(liweiamelia) Hello Daisy!
 
 - [ ] Lutz, Esme
 
